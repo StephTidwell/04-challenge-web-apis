@@ -1,0 +1,4 @@
+css.hide {
+  display: none;
+  <div style="display: none; visibility: hidden;">This element will be hidden</div>
+}
